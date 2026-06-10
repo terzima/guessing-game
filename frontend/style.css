@@ -1,0 +1,23 @@
+#playButton {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: darkgreen;
+}
+label{
+    color: darkorchid;
+    font-size: 20px;
+}
+#numGuess{
+    font-size: 15px;
+}
+
+div{
+    color: darkgoldenrod;
+    font-size: 20px;
+}
